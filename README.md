@@ -13,7 +13,7 @@ TeleGram-CLI based broadcasting bot!
 ## Install
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
-cd $home && git clone https://github.com/tgMember/sinchi.git && cd sinchi 
+cd $home && git clone hhttps://github.com/MGunner/SeenChi
 ```
 
 Enter your telegram Id in "sudo.lua" file
